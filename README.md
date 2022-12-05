@@ -1,1 +1,1 @@
-# Parishioner-Management
+# Management of parishioners
